@@ -22,7 +22,9 @@ What I Did
 In this project, I:
 
 Data Modeling: Designed and created tables in Apache Cassandra to run specific queries.
+
 ETL Pipeline: Completed an ETL pipeline using Python to process and insert data into Cassandra tables. 🐍
+
 The project template I used included all the necessary imports and provided a structure for the ETL pipeline, making it easier to process the data efficiently.
 
 How It Works
